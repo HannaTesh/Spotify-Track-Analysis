@@ -1,24 +1,29 @@
-Overview
+# Spotify Track Analysis
+
+## Overview
 
 This project analyzes a large Spotify tracks dataset to understand what musical features influence song popularity and genre classification. Using statistical modeling and machine learning, we explored whether audio characteristics like energy, danceability, and tempo can predict how successful a song is.
 
-Dataset
+## Dataset
 Size: 113,999 tracks
 Features: 20 variables
 Genres: 125+
 Data Source: Spotify Web API
 Tools Used: Python (data collection/cleaning), R (analysis)
-Included Variables:
+
+## Included Variables:
 Artist, Album, Popularity
 Track Duration
 Danceability, Energy, Valence
 Tempo, Loudness, Acousticness
-Objectives
+
+## Objectives
 Identify musical features that influence song popularity
 Analyze music using data instead of subjective opinion
 Understand listener engagement patterns
 Apply data science to real-world music industry insights
-Hypotheses
+
+## Hypotheses
 H1:
 
 Energy, danceability, valence, and loudness positively correlate with popularity
